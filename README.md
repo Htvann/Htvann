@@ -1,6 +1,6 @@
 <div id="header" align="center">
+<br>
   <h1>Ho Thanh Van</h1>
-  <h3>Hi, I'm Van. I'm a Developer.</h3>
   <br>
   <br>
  
