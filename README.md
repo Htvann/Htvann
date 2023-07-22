@@ -20,5 +20,5 @@
 
 
 ## 🔥 Contribution stats
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Htvann&theme=dracula)https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Htvann&theme=dracula"/>
+<img alt="Htvann's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Htvann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
