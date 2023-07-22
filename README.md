@@ -21,6 +21,6 @@
 
 ## 🔥 Contribution stats
 <p align="center">
-<img alt="Htvann's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Htvann&theme=dracula" />
+<img alt="Htvann's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Htvann&theme=monokai" />
 </p>
 
